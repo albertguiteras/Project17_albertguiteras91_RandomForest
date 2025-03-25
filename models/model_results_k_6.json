@@ -1,0 +1,26 @@
+[
+    {
+        "dataset_TRAIN": "X_train_con_outliers.csv",
+        "dataset_TEST": "X_test_con_outliers.csv",
+        "accuracy_train": 1.0,
+        "accuracy_test": 0.7597402597402597,
+        "precision_train": 1.0,
+        "precision_test": 0.7535895907988931,
+        "recall_train": 1.0,
+        "recall_test": 0.7597402597402597,
+        "f1_train": 1.0,
+        "f1_test": 0.7523799794283988
+    },
+    {
+        "dataset_TRAIN": "X_train_sin_outliers.csv",
+        "dataset_TEST": "X_test_sin_outliers.csv",
+        "accuracy_train": 1.0,
+        "accuracy_test": 0.6233766233766234,
+        "precision_train": 1.0,
+        "precision_test": 0.5613063407181054,
+        "recall_train": 1.0,
+        "recall_test": 0.6233766233766234,
+        "f1_train": 1.0,
+        "f1_test": 0.5579462909971384
+    }
+]
